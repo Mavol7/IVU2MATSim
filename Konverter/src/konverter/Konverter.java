@@ -6,6 +6,7 @@ import java.io.IOException;
 public class Konverter {
 	
 	
+	// Bloeder Kommentar
 	  public static void main(String[] args) throws IOException{
 		  String export = "D:\\Uni\\Informatik\\Semester 9\\Bachelorarbeit\\IVUfleet\\";
 		  String output = "D:\\Uni\\Informatik\\Semester 9\\Bachelorarbeit\\Ausgabe2\\";
